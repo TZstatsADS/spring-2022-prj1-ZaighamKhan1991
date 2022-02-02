@@ -9,7 +9,7 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Spring 2022
 
-+ Projec title: Philosophy Finder
++ Project title: Philosophy Finder
 + This project is conducted by Zaigham Ali Khan
 
 + Project summary: [a short summary] Philosphy has seen many eccentric and world-changing personalities. From the time humans have started recording history, we have written
