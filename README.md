@@ -9,10 +9,15 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Spring 2022
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Philosphy Finder
++ This project is conducted by Zaigham Ali Khan
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: [a short summary] Philosphy has seen many eccentric and world-changing personalities. From the time humans have started recording history, we have written
+accounts of their writings, sayings and written thoughts. The school of philosphy has changed with time. We have different schools of
+thoughts of ancient times, popularized by the philosphers like Plato and Aristotle. However, as times grew and the focus of humans shifted
+from monarchies to democracies, new schools of thoughts like capitalism and communism grew. In this project my focus is to analyze
+different schools of thoughts, identify the underlying 'topics' in different schools of thoughts and predict some articles as to which school of
+thought they align with.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
